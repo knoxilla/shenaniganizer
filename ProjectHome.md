@@ -1,0 +1,1 @@
+This project is just for me to explore googlecode's git code hosting tools.
